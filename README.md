@@ -1,22 +1,24 @@
 <h1 align="center">
   Hi, <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="waving hand gif" /> I'm Aryan
 </h1>
-<h3 align="center">"Full-Stack Explorer"</h3>
+
+
 
 ---
 
-- 🎓 B.Tech student who enjoys building clean, efficient, and user-focused web applications  
-- 💻 Full-stack developer working with Java, React, Node.js, and everything in between  
+- 🎓A B.Tech student who enjoys building clean, efficient, and user-focused web applications  
+- 💻 And a Full-stack Explorer working with Java, React, Node.js, and everything in between  
 
 📫 Reach me at: **dhilluaryan@gmail.com**
 
 ---
 
-<h3 align="left">Connect with me</h3>
+<h3 align="left">🌐 Connect with me</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/aryan-pogula-1b80b0295" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Aryan Pogula | LinkedIn" height="30" width="40" />
   </a>
+  &nbsp;
   <a href="https://leetcode.com/dhillu_aryan/" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Aryan on LeetCode" height="30" width="40" />
   </a>
@@ -24,7 +26,7 @@
 
 ---
 
-<h3 align="left">I love working with:</h3>
+<h3 align="left">🛠️ I love working with</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000" />
@@ -47,7 +49,7 @@
 
 ---
 
-<h3 align="left">GitHub Stats</h3>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=aryandhillu&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+<h3 align="left">📊 My Stats</h3>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aryandhillu&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
